@@ -1,0 +1,14 @@
+{
+    "name": "to-do-list",
+    "version": "1.0.0",
+    "description": "trabalho BD",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index"
+    },
+    "author": "Breno Piropo",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
